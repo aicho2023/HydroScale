@@ -44,8 +44,8 @@ header {
 
 		img {
 			display: block;
-			width: auto;
-			height: 100px;
+			min-width: 250px;
+			height: auto;
 		}
 	}
 }

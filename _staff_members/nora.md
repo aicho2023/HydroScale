@@ -1,5 +1,5 @@
 ---
 name: Nora Povejsil
-image_path: https://i.ibb.co/N703qsL/DSF5104-2-copy.jpg
+image_path: https://i.ibb.co/fqJy8Cr/Screenshot-2024-12-09-at-11-06-41-AM.png
 github: npovejsil
 ---

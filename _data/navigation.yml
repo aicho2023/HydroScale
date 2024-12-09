@@ -10,3 +10,7 @@
   link: /
   new_window: true
   highlight: false
+- name: Methodology
+  link: /methodology
+  new_window: true
+  highlight: false

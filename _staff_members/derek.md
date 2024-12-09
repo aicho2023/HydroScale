@@ -1,5 +1,5 @@
 ---
 name: Derek Yao
-image_path: https://source.unsplash.com/collection/139386/602x602?a=.png
+image_path: https://i.ibb.co/pyxLZYc/Screenshot-2024-12-09-at-11-27-47-AM.png
 github: dyao672
 ---

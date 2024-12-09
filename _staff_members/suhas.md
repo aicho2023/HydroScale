@@ -1,5 +1,5 @@
 ---
 name: Suhas Prasad
-image_path: https://source.unsplash.com/collection/139386/605x605?a=.png
+image_path: https://i.ibb.co/XZ3w6tZ/Prasad-Suhas-1.png
 github: aicho2023
 ---

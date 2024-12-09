@@ -1,5 +1,5 @@
 ---
 name: Austin Ho
-image_path: https://source.unsplash.com/collection/139386/601x601?a=.png
+image_path: https://i.ibb.co/r3vhhNy/Misc-A-2.png
 github: aicho2023
 ---
